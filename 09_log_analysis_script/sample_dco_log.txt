@@ -1,0 +1,11 @@
+2026-07-19 10:00:05 | SW-01 | INFO | LINK_UP | Interface GigabitEthernet0/1 state changed to up
+2026-07-19 10:15:30 | SVR-102 | WARNING | CRC_ERROR | High bit error rate detected on copper transceiver port 4
+2026-07-19 10:20:12 | RTR-01 | CRITICAL | LINK_DOWN | Fiber backbone path redundant connection failure
+2026-07-19 10:22:45 | SVR-102 | INFO | HARDWARE_HEALTH | Fan speed module 2 running at acceptable RPM levels
+2026-07-19 10:45:00 | SW-02 | WARNING | LINK_DOWN | Secondary inter-cabinet link intermittent flap detected
+2026-07-19 11:00:15 | SVR-105 | INFO | TEMP_OK | Ambient intake temperature stable at 21C
+2026-07-19 11:12:40 | SW-01 | CRITICAL | TICKET_ESCALATED | Ticket #92019 auto-opened for persistent link down state on primary route
+2026-07-19 11:30:22 | SVR-102 | WARNING | CRC_ERROR | Port 4 CRC error count exceeded threshold 50/sec
+2026-07-19 11:45:50 | RTR-02 | INFO | BGP_ESTABLISHED | Peering session with peer 192.0.2.1 active
+2026-07-19 12:05:10 | SW-02 | WARNING | LINK_DOWN | Core transceiver temperature exceeded threshold warning limit
+2026-07-19 12:15:00 | SW-02 | CRITICAL | TICKET_ESCALATED | Ticket #92044 generated for SW-02 link stability issue
